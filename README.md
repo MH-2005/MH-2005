@@ -59,7 +59,7 @@ More on [my GitHub](https://github.com/MH-2005?tab=repositories) and [mr-hk.ir](
   <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MH-2005&layout=compact&theme=github_dark&hide_border=true&langs_count=6&hide=jupyter%20notebook,html,tex" />
 </p>
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=MH-2005&theme=github-dark-blue&hide_border=true" />
+  <img src="https://raw.githubusercontent.com/MH-2005/MH-2005/output/streak.svg" />
 </p>
 
 ---
